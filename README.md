@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Following along this interesting course [Desenvolvendo REST / RESTful APIs com Ruby on Rails](https://www.udemy.com/course/rubyonrails-api/)
 
-Things you may want to cover:
+Created by: [Jackson Pires](https://www.udemy.com/course/rubyonrails-api/#instructor-1)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Commits are separated per modules.
